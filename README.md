@@ -4,8 +4,9 @@ Md Shagor Ali, md sagor Md Shagor, Shagor, Sagor, Md Shagor Developer, Md Shagor
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=👋+Hi+I'm+Md+Shagor+Ali" alt="Typing SVG" />
+  MD SHAGOR ALI
 </h1>
+
 
 <p align="center">
   🎯 Passionate Developer | 🌐 Web Enthusiast | 🎨 Creative Coder
