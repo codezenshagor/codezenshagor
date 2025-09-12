@@ -7,7 +7,6 @@ Md Shagor Ali, md sagor Md Shagor, Shagor, Sagor, Md Shagor Developer, Md Shagor
   MD SHAGOR ALI
 </h1>
 
-
 <p align="center">
   🎯 Passionate Developer | 🌐 Web Enthusiast | 🎨 Creative Coder
 </p>
@@ -26,16 +25,19 @@ Md Shagor Ali, md sagor Md Shagor, Shagor, Sagor, Md Shagor Developer, Md Shagor
   <a href="https://www.facebook.com/CodeZen49">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+  <a href="https://shagor.top">
+    <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## ✨ About Me
 
-- 🚀 I’m **Md Shagor Ali**, a passionate web developer.
-- 🛠️ Working with **PHP, Laravel, CodeIgniter, MySQL, JavaScript, jQuery**.
-- 🌱 Always learning **new technologies**.
-- 👨‍💻 Love contributing to **open-source projects**.
+* 🚀 I’m **Md Shagor Ali**, a passionate web developer.
+* 🛠️ Working with **PHP, Laravel, CodeIgniter, MySQL, JavaScript, jQuery**.
+* 🌱 Always learning **new technologies**.
+* 👨‍💻 Love contributing to **open-source projects**.
 
 ---
 
@@ -51,6 +53,12 @@ Md Shagor Ali, md sagor Md Shagor, Shagor, Sagor, Md Shagor Developer, Md Shagor
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
+
+---
+
+## 🌐 Personal Website
+
+Check out my portfolio and projects: [https://shagor.top](https://shagor.top)
 
 ---
 
