@@ -53,16 +53,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codezenshagor&show_icons=true&theme=midnight-owl&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codezenshagor&layout=compact&theme=midnight-owl&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codezenshagor&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codezenshagor&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://streak-stats.demolab.com?user=codezenshagor&theme=midnight-owl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=codezenshagor&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=100&section=footer"/>
